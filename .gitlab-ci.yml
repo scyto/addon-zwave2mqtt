@@ -2,9 +2,9 @@
 include: https://raw.githubusercontent.com/hassio-addons/organization/master/gitlabci/addon.yml
 
 variables:
-  ADDON_GITHUB_REPO: "hassio-addons/addon-zwave2mqtt"
-  ADDON_SLUG: "zwave2mqtt"
-  ADDON_TARGET: "zwave2mqtt"
+  ADDON_GITHUB_REPO: "hassio-addons/addon-zwavejs2mqtt"
+  ADDON_SLUG: "zwavejs2mqtt"
+  ADDON_TARGET: "zwavejs2mqtt"
 
   ADDON_AARCH64_BASE: "hassioaddons/base-aarch64:8.0.6"
   ADDON_AMD64_BASE: "hassioaddons/base-amd64:8.0.6"
